@@ -2,4 +2,4 @@ Uploader
 Spoilers
 Teledocs
 ServerInfo
-Chat Tools
+chattools
